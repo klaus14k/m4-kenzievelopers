@@ -1,4 +1,4 @@
-# **KenzieVelopers - https://kenziehub-klaus14k.vercel.app/**
+# **KenzieVelopers**
 
 ## **Introdução**
 
